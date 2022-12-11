@@ -1,4 +1,4 @@
-# STCR - CS152 Compiler
+# STCR - Compiler
 
 ## Language Name
 STCR (It's pronounced sticker!)
