@@ -4,7 +4,7 @@
 STCR (It's pronounced sticker!)
 
 ## Extension
-.stcR (eg helloWorld.stcR)
+.stcr (eg helloWorld.stcR)
 
 ## Compiler Name
 STCR-C  
